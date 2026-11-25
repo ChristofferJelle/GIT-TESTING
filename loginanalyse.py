@@ -15,5 +15,5 @@ def tael_fejlede(haendelser):
             antal = antal + 1
     return antal
 
-
+print("Loginforsøg i alt:",len(loginhaendelser))
 print("Fejlede loginforsøg:", tael_fejlede(loginhaendelser))
