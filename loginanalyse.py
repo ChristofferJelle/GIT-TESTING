@@ -18,4 +18,4 @@ def tael_fejlede(haendelser):
 print("Loginforsøg i alt:",len(loginhaendelser))
 print("Fejlede loginforsøg:", tael_fejlede(loginhaendelser))
 
-#the evil chris branch version
+#the evil chris branch version creating merge error
