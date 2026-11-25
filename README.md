@@ -6,3 +6,5 @@ i kode ligger fiktive undervisningsdata fra NordicSec, ikke virkelige loginhænd
 - sådanset bare en forløkke som tæller bruger med fejlet status i loginhaendelser dict og returner antal.
 
 - det bliver så printet
+
+dette er er til undervisning
