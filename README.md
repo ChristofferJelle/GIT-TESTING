@@ -1,5 +1,5 @@
 ## DETTE ER EN README
-# Python 25-11-26
+Python 25-11-26
 
 i kode ligger fiktive undervisningsdata fra NordicSec, ikke virkelige loginhændelser.
 
